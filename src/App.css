@@ -49,7 +49,7 @@
   /* show the scrollbar */
   height: 10000px;
   /* width: 300px; */
-  position: fixed;
+  position: absolute;
 }
 #sc{
   height: 200px;
