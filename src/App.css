@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+.n{
+  margin-top: 400px;
+}
+.p1,.p2{
+  font-size: 3.5rem;
+  color: white;
+ 
+
+}
+#sc p {
+  /* show the scrollbar */
+  height: 10000px;
+  /* width: 300px; */
+  position: fixed;
+}
+#sc{
+  height: 200px;
+}
+
+.p2{
+  margin-top: -255px;
+}
